@@ -43,6 +43,6 @@ first_name: "abc2 After",
 last_name: "bb After"
 }`
 
-because I have config in **application.yml**
+because I have config **application.yml** in feign project
 
 `spring.jackson.property-naming-strategy: SNAKE_CASE`
